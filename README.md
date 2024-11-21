@@ -1,4 +1,3 @@
-# Geophysical-Survey-2
 # Geophysical Survey and Environmental Impact Assessment  
 ## Nkuku 1-3 Field, Rivers State, Nigeria  
 
